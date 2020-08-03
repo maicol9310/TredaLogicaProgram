@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TredaCamelCase", "TredaCamelCase\TredaCamelCase.csproj", "{B9E2425C-8082-48D0-A616-4EB5B3AF393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E2425C-8082-48D0-A616-4EB5B3AF393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E2425C-8082-48D0-A616-4EB5B3AF393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E2425C-8082-48D0-A616-4EB5B3AF393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E2425C-8082-48D0-A616-4EB5B3AF393F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A4C7E0-DB9B-4F12-9E58-5FB48450994B}
+	EndGlobalSection
+EndGlobal
