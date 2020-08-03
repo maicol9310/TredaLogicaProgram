@@ -1,0 +1,2 @@
+# TredaLogicaProgram
+Problemas Treda
